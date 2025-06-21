@@ -93,8 +93,10 @@ The ANN was trained on customer demographics and activity data such as:
 ## 📊 Screenshots
 Training Progress	Metrics Visualization
 ![image](https://github.com/user-attachments/assets/4976ab57-a0c8-479d-a186-6c575847fdfc)
-
-
+![image](https://github.com/user-attachments/assets/6d9f908d-bf87-43b6-9c1d-d185b40ae4e4)
+![image](https://github.com/user-attachments/assets/c27a3ed2-69a7-45d3-8761-4eb0127325bf)
+![image](https://github.com/user-attachments/assets/31f124b3-2a29-4255-9d85-02f96d83d3b0)
+![image](https://github.com/user-attachments/assets/e88aa4dd-b955-49f9-98a3-fff7e7cc567f)
 
 ## 🔧 Future Improvements
 - Try SMOTE or class weighting to handle class imbalance
